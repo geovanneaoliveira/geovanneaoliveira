@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Angular**
 
-- 💬 Ask me about **Java, C, C++,JavaScript, Assembly, HTML and CSS**
+- 💬 Ask me about **Java, C, C++, JavaScript, Assembly, HTML and CSS**
 
 - 📫 How to reach me **geovanneaoliveira@gmail.com**
 
