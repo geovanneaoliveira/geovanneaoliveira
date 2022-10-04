@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanneaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="geovanneaoliveira" /> </p>
 
-<p align="left"> <a href="https://twitter.com/geoalmeid4" target="blank"><img src="https://img.shields.io/twitter/follow/geoalmeid4?logo=twitter&style=for-the-badge" alt="geoalmeid4" /></a> </p>
-
 - 🔭 I’m currently working on **VoluntariosApp**
 
 - 🌱 I’m currently learning **TypeScript and Angular**
