@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanneaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="geovanneaoliveira" /> </p>
 
-- 🔭 I’m currently working on **VoluntariosApp**
+- 🌱 I’m currently learning **Python**
 
-- 🌱 I’m currently learning **TypeScript and Angular**
-
-- 💬 Ask me about **Java, C, C++, JavaScript, Assembly, HTML and CSS**
+- 💬 Ask me about **Java, C, C++, JavaScript, Assembly, HTML, CSS, MySQL, Arduino and Angular**
 
 - 📫 How to reach me **geovanneaoliveira@gmail.com**
 
