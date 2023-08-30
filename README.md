@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanneaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="geovanneaoliveira" /> </p>
 
-- 🌱 I’m currently learning **Python and PLC programming**
+- 🌱 I’m currently learning **MatLab and Elasticsearch**
 
 - 💬 Ask me about **Java, C, C++, JavaScript, Assembly, HTML, CSS, MySQL, Arduino and Angular**
 
