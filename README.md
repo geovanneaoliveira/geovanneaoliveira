@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MatLab and Elasticsearch**
 
-- 💬 Ask me about **Java, C, C++, JavaScript, Assembly, HTML, CSS, MySQL, Arduino and Angular**
+- 💬 Ask me about **Java, C, C++, JavaScript, HTML, CSS, MySQL, Arduino and Angular**
 
 - 📫 How to reach me **geovanneaoliveira@gmail.com**
 
