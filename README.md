@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Geovanne!</h1>
-<h3 align="center">I'm mainly a Java programmer but I can do a few things more.</h3>
+<h3 align="center">I'm mainly a Java developer but I can do a few things more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanneaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="geovanneaoliveira" /> </p>
 
